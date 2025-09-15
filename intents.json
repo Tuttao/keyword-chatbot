@@ -1,0 +1,110 @@
+{
+  "saudacao": {
+    "keywords": ["oi", "olá", "eae", "bom dia", "boa tarde", "boa noite", "hello", "hi", "saudações"],
+    "respostas": ["Olá! Como você está?", "Oi! Tudo bem?", "Saudações! Preparado para falar sobre TI?"]
+  },
+  "despedida": {
+    "keywords": ["tchau", "até mais", "falou", "adeus", "bye", "see you"],
+    "respostas": ["Tchau! Até logo!", "Até mais, se cuida!", "Foi bom falar com você."]
+  },
+  "ajuda": {
+    "keywords": ["ajuda", "socorro", "me ajuda", "preciso de ajuda", "dúvida", "não sei", "help"],
+    "respostas": ["Claro, estou aqui para ajudar!", "Diga qual é a sua dúvida.", "Posso tentar te orientar sobre TI."]
+  },
+  "linguagens_programacao": {
+    "keywords": ["python", "java", "c#", "javascript", "js", "php", "ruby", "linguagens de programação", "qual linguagem aprender"],
+    "respostas": [
+      "Python é excelente para automação, IA e ciência de dados.",
+      "Java e C# são ótimas para aplicações corporativas.",
+      "JavaScript é indispensável para front-end e full-stack.",
+      "Escolher depende do seu objetivo: web, mobile ou dados."
+    ]
+  },
+  "git": {
+    "keywords": ["git", "github", "gitlab", "controle de versão", "commit", "branch", "merge", "pull request"],
+    "respostas": [
+      "Git é essencial para controle de versão. Commits claros ajudam na colaboração.",
+      "Aprender a usar branches e merges corretamente evita muitos problemas em projetos."
+    ]
+  },
+  "devops": {
+    "keywords": ["devops", "docker", "kubernetes", "ci/cd", "integração contínua", "deploy", "automação"],
+    "respostas": [
+      "DevOps é sobre integração entre desenvolvimento e operações.",
+      "Docker e Kubernetes ajudam a manter ambientes consistentes e escaláveis."
+    ]
+  },
+  "banco_de_dados": {
+    "keywords": ["sql", "noSQL", "banco de dados", "mysql", "postgres", "mongodb", "oracle", "tabela", "query", "select"],
+    "respostas": [
+      "SQL é ótimo para dados estruturados, NoSQL para dados flexíveis.",
+      "Aprender a consultar e manipular bancos de dados é essencial para qualquer dev."
+    ]
+  },
+  "algoritmos": {
+    "keywords": ["algoritmo", "estrutura de dados", "array", "fila", "stack", "grafo", "hash", "ordenar", "busca", "complexidade"],
+    "respostas": [
+      "Algoritmos eficientes fazem toda a diferença em sistemas grandes.",
+      "Estruturas de dados corretas otimizam tempo e memória do seu programa."
+    ]
+  },
+  "ia_ml": {
+    "keywords": ["inteligência artificial", "machine learning", "deep learning", "redes neurais", "ml", "ia", "modelo preditivo", "dataset"],
+    "respostas": [
+      "IA envolve ensinar máquinas a reconhecer padrões e tomar decisões.",
+      "Machine Learning treina modelos com dados para prever ou classificar informações.",
+      "Redes neurais são usadas em visão computacional e NLP."
+    ]
+  },
+  "frontend": {
+    "keywords": ["html", "css", "javascript", "react", "vue", "angular", "ui", "ux", "frontend", "interface", "design"],
+    "respostas": [
+      "HTML e CSS formam a base do front-end.",
+      "Frameworks como React ajudam a criar interfaces interativas.",
+      "UX é tão importante quanto a lógica do front-end."
+    ]
+  },
+  "backend": {
+    "keywords": ["backend", "api", "servidor", "node", "express", "java spring", "c# .net", "python flask", "django", "rest", "graphql"],
+    "respostas": [
+      "Backend é responsável pela lógica de negócio e integração com bancos de dados.",
+      "APIs RESTful ou GraphQL conectam front e back-end de forma eficiente."
+    ]
+  },
+  "cloud": {
+    "keywords": ["aws", "azure", "google cloud", "cloud", "serverless", "computação em nuvem", "infraestrutura"],
+    "respostas": [
+      "Serviços de cloud permitem escalar aplicações sem se preocupar com hardware.",
+      "AWS, Azure e GCP são os provedores mais usados no mercado."
+    ]
+  },
+  "seguranca": {
+    "keywords": ["segurança", "cybersecurity", "ataque", "vulnerabilidade", "criptografia", "senha", "hacker", "phishing"],
+    "respostas": [
+      "Segurança é essencial mesmo em pequenos projetos.",
+      "Senhas fortes e criptografia protegem dados sensíveis.",
+      "Conhecer princípios de segurança ajuda a evitar ataques comuns."
+    ]
+  },
+  "carreira_ti": {
+    "keywords": ["carreira", "emprego", "vagas", "ti", "tecnologia da informação", "profissão", "mercado de trabalho"],
+    "respostas": [
+      "TI é uma área ampla, com oportunidades em desenvolvimento, infraestrutura, dados e segurança.",
+      "Aprender constantemente é chave para crescer na carreira de tecnologia."
+    ]
+  },
+  "curiosidade_ti": {
+    "keywords": ["curiosidade", "o que é ti", "tecnologia da informação", "novidade", "trending", "inovação"],
+    "respostas": [
+      "TI envolve hardware, software, redes e dados.",
+      "Sempre surgem novas tecnologias para explorar e aprender."
+    ]
+  },
+  "piadas_ti": {
+    "keywords": ["piada", "engraçado", "humor", "divertido"],
+    "respostas": [
+      "Por que o programador confunde Halloween com Natal? Porque OCT 31 = DEC 25!",
+      "Um SQL entra em um bar, vai até duas tabelas e pergunta: 'Posso fazer um JOIN?'"
+    ]
+  }
+}
